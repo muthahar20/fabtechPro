@@ -1,0 +1,5 @@
+package com.mtr.userservice.model;
+
+public class User {
+
+}
